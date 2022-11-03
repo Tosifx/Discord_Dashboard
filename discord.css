@@ -1,0 +1,103 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background-image: url(gaming1.jpeg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+.one{
+	height: 100px;
+	width: 100%;
+	float: left;
+}
+.one img{
+	height: 60px;
+	width: 60px;
+	background-color: white;
+	margin-left: 150px;
+	margin-top: 20px;
+	float: left;
+}
+
+.one ul{
+	list-style-type: none;
+	float: left;
+	color: white;
+	margin-left: 80px;
+}
+
+.one ul li{
+	display: inline-block;
+	margin-top: 25px;
+	margin-left: 30px;
+	font-size: 25px;
+	float: left;
+	text-transform: capitalize;
+}
+.one button{
+	height: 40px;
+	width: 80px;
+	border-radius: 30px;
+	border: none;
+	background-color: white;
+	font-size: 20px;
+	margin-top: 33px;
+	margin-left: 180px;
+	float: left;
+}
+.two{
+	height: 100px;
+	width: 100%;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	float: left;
+	color:gray;
+
+
+}
+.three{
+	height: 200px;
+	width: 1000px;
+	position: absolute;
+	top: 250px;
+	left: 300px;
+	float: left;
+	text-align: center;
+}
+.three h2{
+	font-size: 25px;
+	float: left;
+	color: white;
+	float: left;
+	color: white;
+
+}
+
+.four{
+	height: 100px;
+	width: 50%;
+	position: absolute;
+	top: 370px;
+	left: 450px;
+}
+
+.four button{
+	height: 60px;
+	width: 300px;
+	border: 0;
+	background-color: white;
+	border-radius: 50px;
+	font-size: 20px;
+	margin-left: 20px;
+	
+}
+.game{
+	height: 30px;
+	width: 30px;
+	margin-left: 50px;
+	text-align:center;
+
+}
